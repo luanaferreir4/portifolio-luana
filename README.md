@@ -1,7 +1,7 @@
 # Meu portifólio
 _(Meu portifólio)_
 
-Topics we'd learnt:
+## Topics we'd learnt:
 
    - animation
    - flexbox
