@@ -1,0 +1,2 @@
+.env
+# Significa que estamos colocando o arquivo .env para ser ignorado(não subir para o nosso repositório) na hora de adicionarmos o projeto ao repositório remoto.
